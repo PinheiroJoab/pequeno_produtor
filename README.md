@@ -2,4 +2,4 @@
 
 A new Flutter project.
 ## Getting Started
-This project is a sistem control fo small and familiar farms.
+This project is a system control fo small and familiar farms.
